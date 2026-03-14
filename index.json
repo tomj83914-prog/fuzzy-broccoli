@@ -1,0 +1,16 @@
+{
+  "type": "series",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "segments": [
+        "video/EP-1_P_1/EP-1_P_1.mp4",
+        "video/EP-1_P_2/EP-1_P_2.mp4",
+        "video/EP-1_P_3/EP-1_P_3.mp4",
+        "video/EP-1_P_4/EP-1_P_4.mp4",
+        "video/EP-1_P_5/EP-1_P_5.mp4"
+      ]
+    }
+  ]
+}
